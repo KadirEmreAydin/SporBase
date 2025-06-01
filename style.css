@@ -1,0 +1,35 @@
+/* Sayfa yapısı / Page layout */
+.carousel-body {
+  margin: 0;
+  padding: 3vw 0; /* Üst ve alt boşluk / Top and bottom spacing */
+  background-color: #f8f9fa;
+}
+
+/* Carousel yapısı / Carousel layout */
+.custom-carousel {
+  width: 100%;
+  max-height: 80vh;
+  overflow: hidden;
+}
+
+/* Tüm resimler sabit yükseklikte olsun / Fixed height for all images */
+.carousel-img {
+  object-fit: cover;
+  height: 70vh;
+}
+
+/* Bağlantılar görsel üzerine gelecek şekilde / Carousel link styling */
+.carousel-link {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 10px 18px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 1.5rem;
+  transition: background 0.3s ease;
+}
+
+.carousel-link:hover {
+  background-color: rgba(255, 255, 255, 0.9);
+  color: black;
+}

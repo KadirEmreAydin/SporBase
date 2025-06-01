@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f8ff;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #0077cc;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.home-link {
+  display: block;
+  margin-top: 10px;
+  color: white;
+  text-decoration: none;
+}
+
+main {
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+/* Maç kutuları - Match cards */
+.match-card {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  padding: 15px;
+  width: 280px;
+  text-align: center;
+}
+
+.match-card h3 {
+  margin-bottom: 10px;
+}
+
+.match-card p {
+  margin: 5px 0;
+}

@@ -1,0 +1,23 @@
+body {
+  font-family: Tahoma, sans-serif;
+  background-color: #fff0f0;
+  padding: 20px;
+}
+
+h1 {
+  color: #8e44ad;
+  text-align: center;
+}
+
+#beyzbol-container {
+  margin-top: 20px;
+}
+
+.game {
+  background-color: #fdebd0;
+  padding: 14px;
+  margin: 10px auto;
+  max-width: 450px;
+  border-radius: 7px;
+  font-size: 17px;
+}
