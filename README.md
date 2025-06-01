@@ -1,6 +1,7 @@
 This app fetches live sports data from various API sources and displays it to users. Each sport has its own page.
 
 Includes:
+
 ⚽ Football
 
 🎾 Tennis
@@ -25,6 +26,7 @@ Modular structure with HTML, CSS, JS
 Bu uygulama, farklı spor dallarına ait verileri API’ler üzerinden çekerek kullanıcıya sunar. Her branş için ayrı bir sayfa vardır.
 
 İçerik:
+
 ⚽ Futbol
 
 🎾 Tenis
